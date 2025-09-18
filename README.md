@@ -1,4 +1,4 @@
-<img width="870" height="933" alt="image" src="https://github.com/user-attachments/assets/03923325-e408-453c-91e0-8e289bbd82bf" /># Algorithm for QR Decomposition
+# Algorithm for QR Decomposition
 ## Aim:
 To implement QR decomposition algorithm using the Gram-Schmidt method.
 ## Equipment’s required:
@@ -70,7 +70,8 @@ QR_Decomposition(a)
 
 ```
 
-![Uploading Screenshot 2025-09-18 092940.png…]()
+<img width="870" height="933" alt="Screenshot 2025-09-18 092940" src="https://github.com/user-attachments/assets/e0835bd0-0dea-4d69-ba37-47cc553c740e" />
+
 
 
 ```
